@@ -1,4 +1,5 @@
 # Updated-Portfolio
+![](imgs/github-Screenshot.png)
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
@@ -12,7 +13,7 @@ In order to deliver a updated profile page there were some guidelines establishe
 
 *  Bootstrap was used to develop a portfolio website with the following items:
 
-   * A navbar
+   * A navbar.
 
    * A responsive layout.
 
@@ -74,7 +75,3 @@ Follow these guidelines for committing:
 
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
