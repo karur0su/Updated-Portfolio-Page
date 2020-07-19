@@ -14,11 +14,11 @@ In order to deliver a updated profile page there were some guidelines establishe
 
    * A navbar
 
-   * A responsive layout
+   * A responsive layout.
 
-   * Responsive images
+   * Responsive images.
    
-   * portfolio minimizes with the respected use of media queries.
+   * Portfolio minimizes with the respected use of media queries.
 
    * Use Bootstrap's grid system (containers, rows, and columns).
 
